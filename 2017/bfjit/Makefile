@@ -8,7 +8,7 @@
 # Eli Bendersky [http://eli.thegreenplace.net]
 # This code is in the public domain.
 
-CXX = g++
+CXX = g++-11
 CXXFLAGS = -std=c++11 -Wall -O3 -g
 DEFINES =
 LDFLAGS =
